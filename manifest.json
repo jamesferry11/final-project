@@ -1,0 +1,7 @@
+{
+  "name": "final-project",
+  "short_name": "final-project",
+  "description": "admin dashboard built for polymer 2.0",
+  "start_url": "/",
+  "display": "standalone"
+}
